@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+templated_inheritance-opt
+templated_inhertiance-dbg
+
+*~*
+*.o.d
